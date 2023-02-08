@@ -10,7 +10,7 @@ I'm trying to get into other languages, like C#, Java, maybe Lua (for roblox :P)
 
 other than that, I sometimes do youtube or whatever
 
-# Here's some links to check out
+### Some projects as mentioned above
 https://irrvlo.xyz
 https://parasocial.gg
 https://namelesshub.com
