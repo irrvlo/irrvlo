@@ -1,8 +1,8 @@
-### Hello!
+## Hello!
 
 I'm irrvlo, a beginner programmer that has started way too many projects and is burnt out 99% of the time :P
 
-## Programming
+### Programming
 
 I'm somewhat experienced in JS, I do more backend than frontend, but frontend is really fun
 
