@@ -17,6 +17,5 @@ other than that, I sometimes upload to youtube or whatever
 ### Some projects as mentioned above
 https://irrvlo.xyz
 https://parasocial.gg
-https://namelesshub.com
 
 ![blah](https://media.discordapp.net/attachments/802970220909297715/1044378822096736266/caption.gif?width=627&height=671)
