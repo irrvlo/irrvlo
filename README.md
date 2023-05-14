@@ -4,7 +4,7 @@ I'm irrvlo, a beginner programmer that has started way too many projects and is 
 
 ### Programming
 
-I'm somewhat experienced in JS, I do more backend than frontend, but frontend is really fun
+I'm somewhat experienced in JS, I do more backend than frontend, but frontend is really fun.
 I'm trying to get into other languages, like Python, C#, Java, maybe Lua (for roblox :P)
 
 ### Music
