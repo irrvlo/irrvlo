@@ -1,5 +1,5 @@
 # 👋
-**I'm irrvlo**, a frontend developer with a growing interest in fullstack development.
+**I'm irrvlo**, a frontend developer with a growing interest in fullstack and game development.
 
 ## Current Knowledge
 
@@ -7,4 +7,4 @@
 
 ## Interests
 
-[![Learning](https://skillicons.dev/icons?i=rust,cpp,bun,vue,svelte)](https://skillicons.dev)  
+[![Learning](https://skillicons.dev/icons?i=rust,cpp,bun,vue,svelte,threejs)](https://skillicons.dev)  
