@@ -1,5 +1,5 @@
 # 👋
-**I'm irrvlo**, a frontend developer with a growing interest in fullstack and game development.
+**I'm irrvlo**, a frontend developer interested in fullstack and game development.
 
 ## Current Knowledge
 
